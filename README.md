@@ -7,11 +7,11 @@
 Cross-browser, adaptive, valid layout of a multi-page portfolio site. Using technologies: <b>HTML5, CSS3, JavaScript, Jquery</b>. The work uses a videophone based on the Jquery plugin - the VIDE library.
 
 <b>Links to pages:</b>
-<p>Main page - </p>
-<p>Forest Travel Project page - </p>
-<p>Unit Project - </p>
-<p>Page Portfolio Project Page - </p>
-<p>Elegance Project Page - </p>
+<p>Main page - https://kirillrusacoff.github.io/portfolio-project/</p>
+<p>Forest Travel Project page - https://kirillrusacoff.github.io/portfolio-project/forest.html</p>
+<p>Unit Project - https://kirillrusacoff.github.io/portfolio-project/lending.html</p>
+<p>Page Portfolio Project Page - https://kirillrusacoff.github.io/portfolio-project/My-site.html</p>
+<p>Elegance Project Page - https://kirillrusacoff.github.io/portfolio-project/Shop.html</p>
 
 All links and contacts are relevant and working!
 
