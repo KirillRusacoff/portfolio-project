@@ -1,7 +1,5 @@
 <b>Ссылка на демо работы: https://kirillrusacoff.github.io/portfolio-project/</b> 💼
 
-![2023-08-07_13-50-35](https://github.com/KirillRusacoff/portfolio-project/assets/121468262/72a33736-59a3-4cb1-a57c-abf5a47a207b)
-
 ********************
 
 Cross-browser, adaptive, valid layout of a multi-page portfolio site. Using technologies: <b>HTML5, CSS3, JavaScript, Jquery</b>. The work uses a videophone based on the Jquery plugin - the VIDE library.
@@ -27,3 +25,7 @@ All links and contacts are relevant and working!
 <p>Страница проекта "Элеганс" - https://kirillrusacoff.github.io/portfolio-project/Shop.html</p>
 
 Все ссылки и контакты актуальны и рабочие!
+
+********************
+
+![kirillrusacoff github io_portfolio-project_](https://github.com/KirillRusacoff/portfolio-project/assets/121468262/d8f6c723-7920-4e05-bd27-0ccf5a7059ce)
